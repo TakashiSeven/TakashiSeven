@@ -1,16 +1,30 @@
-## Hi there 👋
+# Takashi Kyoto
 
-<!--
-**TakashiSeven/TakashiSeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Indie Developer & Music Producer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+- Building apps and tools with Python, PySide6, and more
+- Producing electronic music under **Takashi Kyoto**
+- Creating things that are useful, minimal, and well-designed
+
+---
+
+### Music
+
+- [YouTube](https://youtube.com/@TakashiKyoto)
+- [Spotify](https://open.spotify.com/artist/6SnAiKRLYkAC4Z2iWKpuQq)
+
+---
+
+### Current Focus
+
+- Android apps (coming soon to Google Play)
+- Desktop utilities for Windows/Linux
+- Music production
+
+---
+
+*Less noise. More signal.*
